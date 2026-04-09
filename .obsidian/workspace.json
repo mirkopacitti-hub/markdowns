@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "framer/Framer Expert.md",
+                "file": "ldm/Lettre de Motivation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Framer Expert"
+              "title": "Lettre de Motivation"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "framer/Framer Expert.md",
+                "file": "ldm/Lettre de Motivation.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Framer Expert"
+              "title": "Plan de Lettre de Motivation"
             }
           }
         ],
@@ -180,11 +180,13 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "bases:Créer une nouvelle base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "567122b11a584af9",
+  "active": "878364a5ae3945b8",
   "lastOpenFiles": [
+    "framer/Framer Expert.md",
     "ldm/Lettre de Motivation.md"
   ]
 }
