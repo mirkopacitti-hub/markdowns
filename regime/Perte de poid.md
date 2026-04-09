@@ -1,0 +1,52 @@
+# Perte de poid
+
+- Je suis un homme de 43 ans
+- En surpoids, je pèse +-110kg actuellement
+- J'ai une mauvaise IMC, je souhaite descendre à 75kg
+- Ça fait -35kg!
+- Je dois perdre 25% à 30% de mon poids
+- Je ne suis pas pressé, je veux que ça se fasse bien, donc lentement
+- J'ai un travail sédentaire, la plupart du temps je ne bouge pas
+- Les lundis et les jeudi je travail au bureau et donc je ne mange pas le matin, ni au déjeuner. Je ne mange que le soir
+- Idéalement, j'aimerai pouvoir faire quelques écarts le weekend
+- Je ne fais pas de sport non plus
+- Je suis italien, je refuse de manger des pâtes complètes
+- J'ai ni envie, ni vraiment le temps de cuisiner des choses élaborées
+- Je m'attends à ce que tu dresses une liste de courses quand il convient d'en donner
+- Je vis en belgique, brabant wallon. je fais mes courses au colruyt le plus souvent. Voici un lien vers leurs offre en ligne : [https://www.collectandgo.be/fr/home?utm_medium=paid&utm_source=google&utm_campaign=be_bcogo_osa_ao-clp-brand_tsearch&utm_content=fr&utm_campaign_id=21010014842&utm_term=colruyt collect %26 go&s_kwcid=AL!6321!3!690448153352!b!!g!!colruyt collect %26 go&gad_source=1&gad_campaignid=21010014842&gbraid=0AAAAADzBNDhJzUIoUe-Pkq4mE8-6MYOCo](https://www.collectandgo.be/fr/home?utm_medium=paid&utm_source=google&utm_campaign=be_bcogo_osa_ao-clp-brand_tsearch&utm_content=fr&utm_campaign_id=21010014842&utm_term=colruyt%20collect%20%26%20go&s_kwcid=AL!6321!3!690448153352!b!!g!!colruyt%20collect%20%26%20go&gad_source=1&gad_campaignid=21010014842&gbraid=0AAAAADzBNDhJzUIoUe-Pkq4mE8-6MYOCo)
+- Analyse bien les produits disponibles
+- Je souhaiterai appliquer la méthode de Papa in Shape, c'est basé sur du carb cycling : [https://papainshape.com/](https://papainshape.com/)
+- Pour le moment, j'ai une sensation de faim assez souvent, des fringales. Je me jète sur le chocolat, surtout le soir.
+- Il faut m'aider à avoir une sensation des satiété après mes repas pour éviter de grignoter
+- je veux aussi changer mes habitudes, c'est à dire, éviter de grignoter car j'ai de la satiété
+- je veux littéralement éviter la sensation de faim
+- il faut m'aider à me me mettre des limites sur les écarts et me refuser les suggestions que je puisse faire
+- le matin je n'ai vraiment pas envie de préparer quoi que ce soit, il me faut du hyper facile
+- je bois aussi du café au bureau les lundi et jeudi, et je mets du sucre blancs dedans, un sachet entier par café. J'en bois deux ces jours là.
+- pour les légumes, je privilégie les brocolis, les petits pois,
+- je déteste les choux fleurs, choux de bruxelles, chicons cuits,
+- j'aime bien le saumon sous toutes ses formes mais ça coûte cher, donc le poulet est souvent une bonne alternative
+- j'adore les graines et toutes sortes de noix
+- j'aime les goûts sucrant, j'utilise le miel dans mon café à la maison
+- je déteste le stevia
+- j'adore les carottes crues
+- j'aimes les salades vertes, salades de tomates
+- mes fruits préférés sont les ananas, pommes, mandarines, melons
+- j'aime pas les poires, pamplemousses, bananes
+- j'adore les viandes rouges
+- je ne suis pas végétariens
+- j'aimes les oeufs dur, à la coque, omelettes
+- je suis disposé à prendre des shake de protéines, compléments alimentaires de toutes sortes
+- je n'utilise que de l'huile d'olive comme matière grasse
+- je voudrais éviter les fruits surgelés
+- je n'aime pas les autres poissons que le saumon
+- les crevettes c'est trop de travail et ça coûte cher
+- si je dois consommer du skyr, il faut y prévoir un goût sucrant (miel?)
+- oublie les crevettes, ça coûte trop cher
+- oublie l'ail, ça pue partout
+- trouve une alternative aux fruit rouges surgelés
+- pas de poires
+- pas de saumon
+- je ne mets plus de sucre dans mon café mais que du miel
+- je n'aime pas les poivrons
+- je ne me pèse pas et je ne compte pas le faire
