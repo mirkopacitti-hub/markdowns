@@ -118,27 +118,35 @@ https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Pro/graphic%20
 
 ---
 
-## Pro — Figma Skills officiels
+## Figma Skills officiels
 
 ### figma-use
 ```
-https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Pro/figma-skills/figma-use/SKILL.md
+https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Figma/figma-use/SKILL.md
 ```
 ### figma-generate-design
 ```
-https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Pro/figma-skills/figma-generate-design/SKILL.md
+https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Figma/figma-generate-design/SKILL.md
+```
+### figma-generate-library
+```
+https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Figma/figma-generate-library/SKILL.md
 ```
 ### figma-implement-design
 ```
-https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Pro/figma-skills/figma-implement-design/SKILL.md
+https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Figma/figma-implement-design/SKILL.md
 ```
-### figma-code-connect-components
+### figma-code-connect
 ```
-https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Pro/figma-skills/figma-code-connect-components/SKILL.md
+https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Figma/figma-code-connect/SKILL.md
 ```
 ### figma-create-design-system-rules
 ```
-https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Pro/figma-skills/figma-create-design-system-rules/SKILL.md
+https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Figma/figma-create-design-system-rules/SKILL.md
+```
+### figma-create-new-file
+```
+https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Figma/figma-create-new-file/SKILL.md
 ```
 
 ---
