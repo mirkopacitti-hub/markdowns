@@ -1,11 +1,11 @@
 # Index de skills — Mirko Pacitti
 
-Collez les URLs dont vous avez besoin en début de conversation avec Claude.
-Exemple : "Utilise ce skill : [URL]"
+Collez cette URL en début de conversation avec Claude :
+https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/refs/heads/main/index.md
 
 ---
 
-## Perso — usage personnel
+## Perso
 
 ### Lettre de motivation
 ```
@@ -118,12 +118,33 @@ https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Pro/graphic%20
 
 ---
 
+## Pro — Figma Skills officiels
+
+### figma-use
+```
+https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Pro/figma-skills/figma-use/SKILL.md
+```
+### figma-generate-design
+```
+https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Pro/figma-skills/figma-generate-design/SKILL.md
+```
+### figma-implement-design
+```
+https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Pro/figma-skills/figma-implement-design/SKILL.md
+```
+### figma-code-connect-components
+```
+https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Pro/figma-skills/figma-code-connect-components/SKILL.md
+```
+### figma-create-design-system-rules
+```
+https://raw.githubusercontent.com/mirkopacitti-hub/markdowns/main/Pro/figma-skills/figma-create-design-system-rules/SKILL.md
+```
+
+---
+
 ## Sources externes — toujours à jour
 
-### Figma Skills officiels
-```
-https://help.figma.com/hc/en-us/articles/39166810751895-Figma-skills-for-MCP
-```
 ### Impeccable
 ```
 https://impeccable.style
