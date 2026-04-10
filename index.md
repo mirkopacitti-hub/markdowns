@@ -218,7 +218,7 @@ https://impeccable.style
 https://www.aitmpl.com/component/agent/development-team/ui-ux-designer
 ```
 
----
+--- 
 
 ## Vector Bross — auto-chargés dans claude.ai
 
